@@ -17,7 +17,7 @@ https://youtu.be/1QGLHOaRLwM <br />
 Checkout My Personal blog: [DevDreaming](https://devdreaming.com/)<br />
 
 
-### ⭐DO NOT FORGET TO STAR THIS REPO⭐
+### ⭐DO NOT FORGET TO STAR THIS REPO⭐     
 
 ### Images of The Portfolio Website:
 
