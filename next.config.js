@@ -3,6 +3,9 @@
 const {withContentlayer} = require("next-contentlayer")
 
 const nextConfig = {
+    basePath: "/instillsoft",
+    output: "export",  
+    reactStrictMode: true,
     compiler:{
         removeConsole: true,
     }
